@@ -1,0 +1,4 @@
+C:\Users\guthe\documents\visual studio 2010\Projects\Fajlmuveletek\bin\Debug\Fajlmuveletek.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\Fajlmuveletek\bin\Debug\Fajlmuveletek.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\Fajlmuveletek\obj\x86\Debug\Fajlmuveletek.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\Fajlmuveletek\obj\x86\Debug\Fajlmuveletek.pdb
